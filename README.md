@@ -1,8 +1,8 @@
 ### Hello, I'm Felipe Araújo 👨🏽‍💻
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAraujo32&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujo32&layout=compact&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeAraujo32&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujo32&layout=compact&theme=dark"/>
 </div>
     
  ### 📲 Let's get connected:
