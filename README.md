@@ -1,9 +1,21 @@
-### Hello, I'm Felipe Araújo 👨🏽‍💻
+Desenvolvedor de Software com atuação focada em integração de sistemas corporativos, engenharia de dados e automação de processos empresariais.
+Possuo experiência em desenvolvimento e sustentação de soluções voltadas ao ecossistema TOTVS (Protheus e Fluig), além de atuação em integrações entre ERP, bancos de dados, mensageria e plataformas corporativas. Trabalho diretamente com desenvolvimento de APIs REST, workflows, datasets avançados, automações orientadas a eventos e processamento de dados em ambientes críticos de negócio.
 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeAraujo32&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujo32&layout=compact&theme=dark"/>
-</div>
+Minha trajetória envolve projetos relacionados a:
+• Integração de sistemas corporativos
+• Arquitetura de integração
+• Desenvolvimento backend
+• Engenharia e transformação de dados
+• Automação de processos
+• ERP TOTVS Protheus
+• Fluig BPM e workflows
+• APIs REST e microsserviços
+• SQL Server, PostgreSQL e Oracle
+• RabbitMQ e mensageria
+• Power BI, Power Apps e Power Automate
+
+Tenho experiência prática utilizando tecnologias como Java, Spring Boot, Python, ADVPL, JavaScript e ferramentas voltadas a integração e observabilidade, sempre buscando soluções escaláveis, resilientes e alinhadas às necessidades do negócio.
+Atualmente, sigo aprofundando meus conhecimentos em arquitetura de software, sistemas distribuídos e engenharia de dados, com foco na construção de integrações robustas e soluções corporativas de alta disponibilidade.
     
  ### 📲 Let's get connected:
 
@@ -11,15 +23,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipesilva322/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561998055288)
 
-### 🛠️ Technologies e Tools I use:
-
-<div>
-  <img align="center" alt="Andressa-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Andressa-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-  <img align="center" alt="Andressa-html" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Andressa-html" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-  <img align="center" alt="Andressa-html" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
-  <img align="center" alt="Andressa-html" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-  <img align="center" alt="Andressa-html" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  <img align="center" alt="Andressa-html" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-</div>
