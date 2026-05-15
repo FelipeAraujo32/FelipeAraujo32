@@ -1,25 +1,61 @@
-Desenvolvedor de Software com atuação focada em integração de sistemas corporativos, engenharia de dados e automação de processos empresariais.
-Possuo experiência em desenvolvimento e sustentação de soluções voltadas ao ecossistema TOTVS (Protheus e Fluig), além de atuação em integrações entre ERP, bancos de dados, mensageria e plataformas corporativas. Trabalho diretamente com desenvolvimento de APIs REST, workflows, datasets avançados, automações orientadas a eventos e processamento de dados em ambientes críticos de negócio.
+# 👨‍💻 Felipe Araujo
 
-Minha trajetória envolve projetos relacionados a:
-• Integração de sistemas corporativos
-• Arquitetura de integração
-• Desenvolvimento backend
-• Engenharia e transformação de dados
-• Automação de processos
-• ERP TOTVS Protheus
-• Fluig BPM e workflows
-• APIs REST e microsserviços
-• SQL Server, PostgreSQL e Oracle
-• RabbitMQ e mensageria
-• Power BI, Power Apps e Power Automate
+Desenvolvedor de Software com foco em integração de sistemas corporativos, engenharia de dados e automação de processos empresariais.
 
-Tenho experiência prática utilizando tecnologias como Java, Spring Boot, Python, ADVPL, JavaScript e ferramentas voltadas a integração e observabilidade, sempre buscando soluções escaláveis, resilientes e alinhadas às necessidades do negócio.
-Atualmente, sigo aprofundando meus conhecimentos em arquitetura de software, sistemas distribuídos e engenharia de dados, com foco na construção de integrações robustas e soluções corporativas de alta disponibilidade.
-    
- ### 📲 Let's get connected:
+Possuo experiência no desenvolvimento e sustentação de soluções voltadas ao ecossistema TOTVS, atuando com ERP TOTVS Protheus e Fluig, além de integrações entre sistemas corporativos, bancos de dados, mensageria e plataformas empresariais.
 
-[![Discord](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipearaujodev32/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipesilva322/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561998055288)
+Atuo diretamente com:
 
+* Desenvolvimento de APIs REST
+* Workflows corporativos
+* Datasets avançados
+* Automações orientadas a eventos
+* Processamento de dados
+* Integrações entre ERP e sistemas externos
+
+---
+
+## 🚀 Áreas de atuação
+
+* Integração de sistemas corporativos
+* Arquitetura de integração
+* Desenvolvimento backend
+* Engenharia e transformação de dados
+* Automação de processos empresariais
+* ERP TOTVS Protheus
+* Fluig BPM e workflows
+* APIs REST e microsserviços
+* SQL Server, PostgreSQL e Oracle
+* RabbitMQ e mensageria
+* Power BI, Power Apps e Power Automate
+
+---
+
+## ⚙️ Tecnologias e ferramentas
+
+```java
+Java • Spring Boot • Python • ADVPL • JavaScript
+SQL Server • PostgreSQL • Oracle • RabbitMQ
+REST APIs • Microsserviços • Power BI
+Power Apps • Power Automate • Fluig • Protheus
+```
+
+---
+
+## 📚 Atualmente estudando
+
+* Arquitetura de Software
+* Sistemas Distribuídos
+* Engenharia de Dados
+* Observabilidade
+* Escalabilidade e Resiliência de aplicações
+
+---
+
+## 📲 Let's get connected
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/felipearaujodev32/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/felipesilva322/)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5561998055288)
