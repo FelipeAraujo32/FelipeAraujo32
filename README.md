@@ -6,8 +6,6 @@ Software Engineer • Enterprise Integration • TOTVS Ecosystem • Backend •
 
 Desenvolvedor de software com atuação focada em integração de sistemas corporativos, automação de processos empresariais e engenharia de dados.
 
-Especializado no ecossistema TOTVS, atuando diretamente com:
-
 - ERP TOTVS Protheus
 - Fluig BPM
 - APIs REST
