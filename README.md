@@ -1,61 +1,103 @@
-# 👨‍💻 Felipe Araujo
+# Felipe Araujo
 
-Desenvolvedor de Software com foco em integração de sistemas corporativos, engenharia de dados e automação de processos empresariais.
-
-Possuo experiência no desenvolvimento e sustentação de soluções voltadas ao ecossistema TOTVS, atuando com ERP TOTVS Protheus e Fluig, além de integrações entre sistemas corporativos, bancos de dados, mensageria e plataformas empresariais.
-
-Atuo diretamente com:
-
-* Desenvolvimento de APIs REST
-* Workflows corporativos
-* Datasets avançados
-* Automações orientadas a eventos
-* Processamento de dados
-* Integrações entre ERP e sistemas externos
-
----
-
-## 🚀 Áreas de atuação
-
-* Integração de sistemas corporativos
-* Arquitetura de integração
-* Desenvolvimento backend
-* Engenharia e transformação de dados
-* Automação de processos empresariais
-* ERP TOTVS Protheus
-* Fluig BPM e workflows
-* APIs REST e microsserviços
-* SQL Server, PostgreSQL e Oracle
-* RabbitMQ e mensageria
-* Power BI, Power Apps e Power Automate
-
----
-
-## ⚙️ Tecnologias e ferramentas
-
-```java
-Java • Spring Boot • Python • ADVPL • JavaScript
-SQL Server • PostgreSQL • Oracle • RabbitMQ
-REST APIs • Microsserviços • Power BI
-Power Apps • Power Automate • Fluig • Protheus
+```txt
+Software Engineer • Enterprise Integration • TOTVS Ecosystem • Backend • Automation
 ```
 
+Desenvolvedor de software com atuação focada em integração de sistemas corporativos, automação de processos empresariais e engenharia de dados.
+
+Especializado no ecossistema TOTVS, atuando diretamente com:
+
+- ERP TOTVS Protheus
+- Fluig BPM
+- APIs REST
+- Microsserviços
+- Integração entre sistemas corporativos
+- Mensageria e processamento assíncrono
+- Workflows empresariais
+- Engenharia e transformação de dados
+
+Possuo experiência no desenvolvimento de soluções voltadas para ambientes corporativos críticos, envolvendo integração entre ERP, bancos de dados, plataformas empresariais e automações orientadas a eventos.
+
 ---
 
-## 📚 Atualmente estudando
+# Tech Stack
 
-* Arquitetura de Software
-* Sistemas Distribuídos
-* Engenharia de Dados
-* Observabilidade
-* Escalabilidade e Resiliência de aplicações
+### Backend & Integration
+
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![ADVPL](https://img.shields.io/badge/ADVPL-000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Oracle](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle)
+
+### Enterprise Platforms
+
+![TOTVS Protheus](https://img.shields.io/badge/TOTVS_Protheus-000?style=for-the-badge)
+![Fluig BPM](https://img.shields.io/badge/Fluig_BPM-000?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi)
+![Power Apps](https://img.shields.io/badge/Power_Apps-000?style=for-the-badge&logo=powerapps)
+![Power Automate](https://img.shields.io/badge/Power_Automate-000?style=for-the-badge&logo=powerautomate)
 
 ---
 
-## 📲 Let's get connected
+# Areas of Expertise
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/felipearaujodev32/)
+- Enterprise Integration
+- ERP Integration
+- Backend Development
+- BPM & Workflow Automation
+- Data Processing
+- Event-Driven Architecture
+- API Development
+- Corporate Systems Architecture
+- Business Process Automation
+- SQL Performance & Data Transformation
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/felipesilva322/)
+---
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5561998055288)
+# Current Focus
+
+Atualmente aprofundando estudos e práticas em:
+
+- Software Architecture
+- Distributed Systems
+- Scalability
+- Resilience
+- Observability
+- Messaging Systems
+- Clean Architecture
+- Event-Driven Systems
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+# Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipearaujodev32/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipesilva322/)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561998055288)
+
+---
+
+# Philosophy
+
+> Building enterprise solutions focused on integration, automation, scalability and business reliability.
